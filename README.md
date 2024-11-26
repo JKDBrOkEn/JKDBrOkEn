@@ -1,5 +1,7 @@
 also, hi!
-i am jkdbroken, a multi-faceted guy
+
+i am jkdbroken, a multi-faceted INFP-T guy
+
 graphic artist, coder, pro wrestling fanatic
 
 ![Pro Wrestling](https://img.shields.io/badge/Interest-Pro%20Wrestling-blueviolet)
